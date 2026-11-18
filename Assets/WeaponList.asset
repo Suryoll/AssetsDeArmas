@@ -34,7 +34,7 @@ MonoBehaviour:
     iconScale: 0
     iconOffset: {x: 0, y: 0}
     iconRotation: 0
-    prefab3D: {fileID: 919132149155446097, guid: 1a333f9153d0708489f2deeaf8da513a, type: 3}
+    prefab3D: {fileID: 919132149155446097, guid: 0974b1aa8245902419ff549201881fd5, type: 3}
     viewRotationOffset: {x: 0, y: 0, z: 0}
     viewScale: 0
   - name: Foice
