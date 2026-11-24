@@ -18,7 +18,7 @@ MonoBehaviour:
     iconScale: 0
     iconOffset: {x: 0, y: 0}
     iconRotation: 0
-    prefab3D: {fileID: 919132149155446097, guid: 25e5f8e9ebc7b3448a44f40ea43e22be, type: 3}
+    prefab3D: {fileID: 919132149155446097, guid: 55b03098b247284489c64e4af49b53d5, type: 3}
     viewRotationOffset: {x: 0, y: 0, z: 0}
     viewScale: 0
   - name: Pistola
