@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d850b51340f50684787a44e38fb6581e
+guid: 2143884abac92244996aa90582f54503
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
@@ -8,7 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: AdagaCabo
-    second: {fileID: 2100000, guid: 02591e52fe2128049b619973aaea0102, type: 2}
+    second: {fileID: 2100000, guid: f0a50dfdfe0cdd941a125822989e983c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
