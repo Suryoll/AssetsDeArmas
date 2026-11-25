@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 206b63c31a04e2745a151c4b72a9011e
+guid: 6155aec471e257548925bc4936729f25
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
@@ -8,12 +8,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Arco
-    second: {fileID: 2100000, guid: bc39190e43545294aa303aaf037e1c2a, type: 2}
+    second: {fileID: 2100000, guid: 8a60dc52bc5d6a1459ed6ac88c15a3c9, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Bolsinha
-    second: {fileID: 2100000, guid: aeb4d46f7ed32a9459707f197206dea6, type: 2}
+    second: {fileID: 2100000, guid: 110b9230a86427b4494fca785d32431f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -22,13 +22,28 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Flechas
-    second: {fileID: 2100000, guid: d341ad1509bd2344184aa90de4311acb, type: 2}
+      name: Flexa
+    second: {fileID: 2100000, guid: 8cb0b9b630475ad49891904bbb31257a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Flechas3
-    second: {fileID: 2100000, guid: 0ab5f24d40a58fa499613af3d438a7ec, type: 2}
+      name: Flexa.001
+    second: {fileID: 2100000, guid: 8cb0b9b630475ad49891904bbb31257a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flexa.002
+    second: {fileID: 2100000, guid: 8cb0b9b630475ad49891904bbb31257a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flexa.003
+    second: {fileID: 2100000, guid: 8cb0b9b630475ad49891904bbb31257a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flexa.004
+    second: {fileID: 2100000, guid: 8cb0b9b630475ad49891904bbb31257a, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
