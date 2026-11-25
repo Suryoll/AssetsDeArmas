@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 55b03098b247284489c64e4af49b53d5
+guid: 206b63c31a04e2745a151c4b72a9011e
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
@@ -8,7 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Arco
-    second: {fileID: 2100000, guid: 549cbb044ee29ca46924195027e62777, type: 2}
+    second: {fileID: 2100000, guid: bc39190e43545294aa303aaf037e1c2a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
